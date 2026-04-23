@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Main-Class: project3.third.App
+Created-By: Maven Integration for Eclipse
+
